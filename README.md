@@ -1,8 +1,11 @@
 
 
   Dependencies:
+  
   expressjs
+  
   jsonwebtoken
+  
   mongoose
   
   slugify
