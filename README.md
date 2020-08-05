@@ -2,11 +2,19 @@
 
 **Dependencies
 
-  expressjs
+  expressjs/n
+  
   jsonwebtoken
+  
   mongoose
+  
   slugify
+  
   bcryptjs
+  
   dotenv
+  
   multer
+  
   nodemailer
+  
