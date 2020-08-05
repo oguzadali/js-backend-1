@@ -1,4 +1,4 @@
-kaynak -m.m.coskun  github
+
 **config.env oluşturuldu  
 **npm istall dotenv --config.env dosyasının kullanımı için indirildi
 **mongoose library added for mongo db
