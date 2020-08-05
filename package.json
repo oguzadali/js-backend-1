@@ -1,0 +1,33 @@
+{
+  "name": "js-backend-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "import": "node dummy-generator --import",
+    "delete": "node dummy-generator --delete"
+  },
+  "author": "oguz",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.25",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.10",
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oguzadali/js-backend-1.git"
+  }
+}
