@@ -1,11 +1,8 @@
-"# js-backend-1" 
 
-**Dependencies
 
-  expressjs/n
-  
+  Dependencies:
+  expressjs
   jsonwebtoken
-  
   mongoose
   
   slugify
